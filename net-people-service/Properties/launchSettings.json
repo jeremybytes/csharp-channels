@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "People.Service": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "people",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:9874"
+    }
+  }
+}
