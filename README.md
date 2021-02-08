@@ -53,7 +53,7 @@ Articles
 A set of articles accompanies this example to walk through how channels are used in conjunction with concurrent (async) operations.  
 
 C# Articles:
-* Using Channels in C# -- *coming soon*  
+* [Introduction to Channels in C#](https://jeremybytes.blogspot.com/2021/02/an-introduction-to-channels-in-c.html)  
 
 If you are interested in the Go (golang) sample, there is a set of articles that describe goroutines, channels, WaitGroup, and anonymous functions.
 Go Articles:
